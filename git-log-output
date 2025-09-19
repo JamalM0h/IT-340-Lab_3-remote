@@ -1,0 +1,31 @@
+commit db4115dad948ba3fa9be48cd9b3d5f0fafd09e35
+Author: Jamal <jamalmohomad04@gmail.com>
+Date:   Fri Sep 19 12:00:00 2025 -0400
+
+    Revert "added newfile.txt"
+    
+    This reverts commit b8230ca6f5173b73f73ffc4013c1e9fa42387e97.
+
+commit b8230ca6f5173b73f73ffc4013c1e9fa42387e97
+Author: Jamal <jamalmohomad04@gmail.com>
+Date:   Fri Sep 19 11:58:10 2025 -0400
+
+    added newfile.txt
+
+commit 640edf4bb244f4efaa5f67465212567faf598775
+Author: Jamal <jamalmohomad04@gmail.com>
+Date:   Fri Sep 19 11:56:55 2025 -0400
+
+    changed hostname
+
+commit dcd69c9eb4358ec1be7907e1af74cd750d4a8308
+Author: Jamal <jamalmohomad04@gmail.com>
+Date:   Fri Sep 19 11:43:19 2025 -0400
+
+    change os-release
+
+commit 08f1dd748383d7cabaa0fa693400b05349af97c5
+Author: Jamal <jamalmohomad04@gmail.com>
+Date:   Fri Sep 19 11:41:02 2025 -0400
+
+    start of repo
